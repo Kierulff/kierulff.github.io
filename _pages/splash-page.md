@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Om Mig"
       url: "/om-mig/"
-excerpt: "Aspirerende bygningskonstruktør fra UCL med fokus på det tekniske "
+excerpt: "Aspirerende bygningskonstruktør fra UCL med fokus på det tekniske. "
 feature_row:
   - image_path: /assets/images/1.Semester/test.png
     title: "Projektering af rækkehus"
