@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/3.Semester/thumbnail1.jpg
 sidebar:
   - title: "Rolle"
-    image: /assets/images/E.jpg
+    image: /assets/images/construction.gif
     image_alt: "logo"
     text: "IKT Ansvarlig"
   - title: "Ansvarsområder"

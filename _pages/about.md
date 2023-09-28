@@ -4,8 +4,8 @@ permalink: /om-mig/
 layout: single
 author_profile: true
 gallery:
-  - url: /assets/images/emma.jpg
-    image_path: /assets/images/emma.jpg
+  - url: /assets/images/emma.png
+    image_path: /assets/images/emma.png
     alt: "It's me"
 ---
 
