@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/3.Semester/thumbnail1.jpg
+  overlay_image: /assets/images/2.Semester/thumbnail.jpg
   actions:
     - label: "Om Mig"
       url: "/om-mig/"
