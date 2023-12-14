@@ -177,7 +177,9 @@ Bygherren, som er Tegn & Byg A/S, går meget op i det sociale ansvar. Han har de
 Som en begyndelse blev der udarbejdet et organisationsdiagram for at danne os et overblik over hvad en totalentreprenør egentlig er, og hvilke arbejdsvilkår der gælder mellem de forskellige aktører. Vi brugte diagrammet for at finde en sammenhæng mellem opgaveteksten, og hvordan vi skulle udarbejde den. 
 Der blev udarbejdet en gruppekontrakt, for at sikrer at der ligger en bestemt standard bag projektet. Heri skulle der også indsættes de teamroller vi har fået via belbins-teamrollemodel og beskrive, hvordan vi som gruppe har vores styrker og svagheder. 
 Gruppekontrakten danner grundlag for vores standarder og samarbejdsmetoder.
+
 {% include gallery id="gallery3" %}
+
 Vi fik en aftale op at køre, omkring at vores projekteringsmøder skulle op og køre en gang ugentligt. Dagsordenen på mødet kan ses ovenover. 
 Møderne omfatter både, præstering, trivsel, vidensdeling, tidsstyring og forventningsafstemning. 
 En enkelt person agerer mødeleder (ordstyrer) og er den der styrer, hvor meget det enkelte individ får lov til at sige, og hvornår diskussionerne skal stoppes mv. 
