@@ -2,8 +2,8 @@
 title: "Projektering: Præfabrikeret erhversbyggeri"
 excerpt: "Præfabrikeret erhversbyggeri på 3 Semester."
 header:
-  image: /assets/images/3.Semester/thumbnail1.jpg
-  teaser: /assets/images/3.Semester/thumbnail1.jpg
+  image: assets/images/3.Semester/FORSIDE.jpg
+  teaser: assets/images/3.Semester/FORSIDE.jpg
 sidebar:
   - title: "Rolle"
     image: /assets/images/construction.gif
@@ -43,6 +43,41 @@ gallery14:
   - url: /assets/images/3.Semester/Billede 14.jpg
     image_path: assets/images/3.Semester/Billede 14.jpg
     alt: "image 14"
+gallery15:
+  - url: /assets/images/3.Semester/Billede M.jpg
+    image_path: assets/images/3.Semester/Billede M.jpg
+    alt: "image 15"
+gallery16:
+  - url: /assets/images/3.Semester/Billede L.jpg
+    image_path: assets/images/3.Semester/Billede L.jpg
+    alt: "image 16"
+gallery17:
+  - url: assets/images/3.Semester/tung.jpg
+    image_path: assets/images/3.Semester/tung.jpg
+    alt: "image 17"
+gallery18:
+  - url: /assets/images/3.Semester/Billede P.jpg
+    image_path: assets/images/3.Semester/Billede P.jpg
+    alt: "image 18"
+gallery19:
+  - url: /assets/images/3.Semester/byggeplads.jpeg
+    image_path: assets/images/3.Semester/byggeplads.jpeg
+    alt: "image 19"
+gallery20:
+  - url: assets/images/3.Semester/kran.jpg
+    image_path: assets/images/3.Semester/kran.jpg
+    alt: "image 20"
+feature_row:
+  - image_path: assets/images/3.Semester/tung_thumb.jpg
+    excerpt: "Tryk på knappen for at downloade filerne for Udførselsfasen."
+    url: "assets/images/3.Semester/Tung producent- Udførselsfasen.zip"
+    btn_label: "Download"
+    btn_class: "btn--success"
+  - image_path: assets/images/3.Semester/general.jpg
+    excerpt: "Tryk på knappen for at downloade filerne for selve projektet."
+    url: "assets/images/3.Semester/I3A1E23.zip"
+    btn_label: "Download"
+    btn_class: "btn--success"
 toc: true
 toc_label: "Indholdsfortegnelse"
 ---
@@ -75,11 +110,46 @@ Totalentreprenøren benytter sig af totalrådgivning og er nogle de ”kan købe
 -	For detaljeret projektering inden overdragelse til totalentreprenøren. 
 
 # Standardvilkår
+Standardaftaledokumenter, som regulerer retsforholdet mellem de parter, der vælger at bruge et af dem som grundlag for en aftale om f.eks. et byggeprojekt. 
+
+Formålet med aftalesættene er, at de skal være med til at dække aftaleforholdet mellem en bygherre og en entreprenør eller rådgiver. De er så at sige en slags juridisk og aftalemæssig "tjekliste". AB bestemmelserne uddyber hvilke rettigheder og forpligtelser parterne har overfor hinanden under byggesagen og de tager stilling til en lang række forhold under byggesagen.
+
+AB bestemmelserne regulerer b.la.: 
+- Aftalegrundlaget (definitioner mv.)
+- Sikkerhedsstillelse og forsikring
+- Krav til arbejdets udførelse og tidsplan
+- Ændringer i arbejdet
+- Regler om betaling
+- Merbetaling og besparelse
+- Hvordan parterne skal forholde sig ved forsinkelse
+- Hvornår der er ret til tidsfristforlængelse
+- Risikoens overgang
+- Fremgangsmåden ved aflevering
+- Hvordan parterne skal forholde sig ved mangler og hvornår mangler foreligger
+- Regler omkring afhjælpningsret og afhjælpningspligt
+- 1 og 5 års eftersyn
+- Hvornår en part kan ophæve aftalen
+- Hvordan tvister skal håndteres (konfliktløsningstrappen)
+- Voldgiftsklausul
+
+Et særkende ved både AB 18 som ABT 18 er, at fordi aftaledokumenterne er udarbejdet af repræsentanter for både entreprenører og bygherrer, kan aftalesættene ikke fortolkes til skade for en af aftaleparterne.
+Det er dette aftalegrundlag der danner grundlag for kontrakten mellem de forskellige aktører. Heri er der en masse bestemmelser, der angiver diverse regler, vedståelsesfrister mm. 
+
+
 ## ABT18
+ABT står for står for Almindelige Betingelser for Totalentreprise. Totalentreprise er, når entreprenøren også medtager rådgiverdelen under sin entreprise eller sit arbejde. 
 
 ## ABR18
+ABR 18, tidligere ABR 89, er Almindelige Bestemmelser for teknisk Rådgivning og bistand, som er et sæt juridiske aftalevilkår, der nærmere er udarbejdet til regulering af tekniske rådgivningsopgave på bygge- og anlægsområdet, se hertil også entreprise.
+
+Dette er den rådgivning der ligger inden det fysiske byggeri går i gang.
+
+ABR18 ligger mellem bygherre (betaleren) og rådgiveren (Ark, ing mf.) 
 
 ## AB18
+AB18 er et standardiseret sæt aftalevilkår til brug for aftaler om arbejder og leverancer i bygge- og anlægsvirksomhed.
+
+AB18 er oftest mellem rådgiver og entreprenørerne. AB18 definerer vilkårene for entreprenørerne og deres samarbejdspartnere.  
 # Omvendt licitation
  Licitation betyder at noget går i udbud, og derved kan relevante aktører byde ind på det. Hvem der skal udføre byggeopgaven, bliver bestemt ved en licitation. 
 Ved omvendt licitation har ordregiver (Tegn & Byg) allerede sat en pris på projektet. Her handler det om at bygherre kan vælge, hvilket af de projekter han bliver tilbudt ved licitationen, som han kan se størst potentiale i. 
@@ -401,6 +471,89 @@ Formfaktor for hældning på 2,5°:
 \\(S_{k3} = 0,8 * 1 * 1 * \frac{1kN}{m^2} = 0,8kN/m^2 \\)
 
 Alle tilfælde af snelast er simple tilfælde. 
+
+
+# Fase 3 - Udførselsprojekt
+
+## Tunge elementer
+I denne fast skulle vi arbejde individuelt omkring et udførselsprojekt. Jeg skulle personligt arbejde som tung element producent. 
+Opgavegrundlaget i denne fase var b.la. A113 model 5 (Fordeling af projekteringsydelser og ansvar med leverance og montage af elementer af beton og letklinkerbeton)
+
+### Montageplan 
+
+
+{% include gallery id="gallery15" %}
+
+Produktionshallen består af et bærende søjle-/bjælkesystem af beton. Søjlerne bliver ind spændt i et A fundament. Der overfører lasterne i OSBL. Bjælkerne i systemet er TTS- ribbepladerne, som er svejset sammen i bunden og støbt sammen i toppen for at kunne optage eventuelle vrid, samt for at sikre bygningen. 
+
+
+Montageplanen, skal koble leverandør og projekterendes oplysninger sammen til en entydig plan for hvordan montagen praktisk kan afvikles. Der er beskrevet en rækkefølge, som montageentreprenøren skal følge, Som start monteres søjler, bjælker, TTS og vaffel for at danne tag til støbning af fundament. Så støbes fundamentet og til sidst monteres ydervægselementerne. 
+
+
+De ansvar og pligter jeg har som leverandør er b.la. at alle elementer skal være identificerbare, det er blevet gjort ved at udarbejde elementnummer og type til det enkelte element, som kan findes her på montageplanen og mål mv er angivet i elementoversigts tegningerne.
+
+
+### Leveranceplan
+
+{% include gallery id="gallery16" %}
+
+
+{% include gallery id="gallery17" %}
+
+Leveranceplanen der er udarbejdet, skal være med til at reducere oplagring på pladsen, ved at den enkelte levering kommer indenfor et angivet tidsrum, hvor der er sørget for at entreprenørerne har den nødvendige tid til at afmontere og montere læsset på byggegruben. 
+
+
+Tidsrummet hjælper med at forhindre oplagring, da det sørger for at selvom der er en vogn der sidder fast i trafikken, at der er beregnet spildtid ind for det enkelte, læs så det ikke forhindrer flowet på byggepladsen. Derudover vil der på denne måde også være en reduktion af arbejdsulykker relateret til intern flytning af materialer, samt en reduktion af materialeskader.
+
+
+Leveranceplanen angiver alle elementer, som tung producent er ansvarlig for. Dette inkluderer også A-fundamenter, samt betonklodser til rørstøtter. Derudover angiver planen vægt pr element, vægt pr lastbil, last nr. element type, element nr. og type nr., samt mål, bilag med pakkeplan og tidsrum lastbilen skal levere diverse elementer i. 
+
+
+Leveranceplanen er udarbejdet, så det er koordineret med arbejdstidsplanen, og dokumentationen er også angivet i montageplanen. 
+
+
+Alle dokumenter har en eller anden form for forbindelse imellem dem. F.eks. har leveranceplanen en forbindelse til byggepladsen (rød tråd) da lastbilerne, skal kunne køre ind og aflevere elementerne, samt afmontere dem et sted, her er der angivet på byggepladsplanen, hvor man kan aflæsse div elementer samt oplagre materialer.
+
+#### Kontrolplan
+{% include gallery id="gallery18" %}
+
+Ud fra kontrolplanen har jeg udarbejdet et procesdiagram, der anviser hvad der sker hvis KS bliver enten afvist eller godkendt, samt hvor langt inde i KS processen man er nået. Dette kræver at fagtilsynet kommer ud på byggepladsen hver dag og afklarer eventuelle spørgsmål og er i dialog med entreprenørende for at finde de steder der kræver særlig opmærksomhed. 
+
+
+I dette projekt ville det kunne være sammenstøbning af KBE- bjælken og TTS elementet, da de to elementer både skal støbes og svejses sammen, som kræver koordinering mellem fagentreprenørerne. 
+
+
+Kontrolplanen angiver hvad der skal tjekkes i et sprog, hvor fag entreprenørerne også skal kunne forstå hvad der skal tjekkes uden at skulle slå op i mange forskellige dokumenter. 
+Dette gør min kontrolplan ikke og kan derfor godt forveksles med en udbudskontrolplan. 
+
+
+#### Byggepladsplan
+{% include gallery id="gallery19" %}
+
+
+Anhugningsarbejdet skal tilrettelægges, så hverken anhugger eller andre udsættes for fare, og hverken hejseredskab eller anhugningsmateriel bliver overbelastet eller beskadiget. Det bliver bla. Gjort ved at afskærme løfteområdet som vist på billedet.
+{% include gallery id="gallery20" %}
+
+
+Byggepladsplanen hænger b.la. sammen med montagebeskrivelsen, hvor der er beskrevet: 
+Jf. montagebeskrivelsen: 
+-	Afskærmning af områder i løftezonen
+-	Der skal tages hensyn til midlertidige understøtninger.
+-	Løft skal ske forsvarligt
+Disse er angivet på selve byggepladsplanen. Ved modtagelsen af betonelementer skal det sikres at elementerne bliver tjekket jf. kontrolplanen før der foretages yderligere. Ved midlertidig opbevaring sikres elementerne med korrekt understøtning jf. montagevejledningen. 
+
+Græsarmeringen er lagt samtidigt med byggegruben for at sørge for at mobilkranen kan komme rundt om bygningen
+Derudover er der angiver hjertestarter jf. PSS. Materialesorteringen sker for at have en grønnere byggeplads, hvor materialerne kan genanvendes ved b.la. at sendes til skoler som kan genbruge dem i deres kreative klubber. 
+
+Byggeledelsen er placeret ved hovedindgangen for at sørge for at alle ved hvor de befindes sig, samt hvor førstehjælpsudstyret er. 
+Oversigtsplan skal op ved indgangene til byggepladsen og indgangen til de individuelle bygninger på pladsen. 
+Hele pladsen skal spærres af, så civile ikke kan tilgå den og komme til skade. 
+
+#### Dokumenter
+Disse dokumenter er låst, og kan kun låses op med en kode, hvis du vil have adgang til dokumenterne, så skriv til mig.
+Kontaktinformationen findes i fanen øverst ”Om mig”
+
+{% include feature_row %}
 
 
 

@@ -23,7 +23,7 @@ feature_row:
     url: "/portfolio/2.5_Etage/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-  - image_path: /assets/images/3.Semester/thumbnail1.jpg
+  - image_path: /assets/images/3.Semester/FORSIDE.jpg
     title: "Projektering: Præfabrikeret erhversbyggeri"
     excerpt: "Præfabrikeret erhversbyggeri på 3 Semester."
     url: "/portfolio/Præfabrikeret_erhversbyggeri/"
