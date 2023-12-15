@@ -75,7 +75,7 @@ feature_row:
     btn_class: "btn--success"
   - image_path: assets/images/3.Semester/general.jpg
     excerpt: "Tryk på knappen for at downloade filerne for selve projektet."
-    url: "assets/images/3.Semester/I3A1E23.zip"
+    url: "https://link.storjshare.io/s/jx64mnl63nk3kmuewpnxomusuowq/site-bucket%2FI3A1E23.zip?download=1"
     btn_label: "Download"
     btn_class: "btn--success"
 toc: true
