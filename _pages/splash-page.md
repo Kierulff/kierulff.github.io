@@ -29,10 +29,10 @@ feature_row:
     url: "/portfolio/Præfabrikeret_erhversbyggeri/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-  - image_path: /assets/images/2.Semester/døre&vindue.jpg
-    title: "Udbudsprojekt: Vinduer & Døre"
-    excerpt: "Individuelt udbudsprojekt ”Vinduer og døre."
-    url: "/portfolio/Udbudsprojekt_Vinduer_Døre/"
+  - image_path: /assets/images/4.Semester/4semester.jpg
+    title: "Ny afdeling: Projektering Thrigefirkanten - boligbyggeri 4+ etager"
+    excerpt: "Projektering Thrigefirkanten"
+    url: "/portfolio/4.semester/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
