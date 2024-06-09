@@ -35,5 +35,13 @@ feature_row:
     url: "/portfolio/4.semester/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+  - image_path: /assets/images/halmfyr/Billede 1.jpg
+    title: "Slidt halmfyr til charmerende Tiny house"
+    excerpt: "Et renoveringsprojekt med fokus på processen fra start til slut"
+    url: "/portfolio/Slidt halmfyr til charmerende tiny house/"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+
+
 ---
 {% include feature_row %}
