@@ -20,19 +20,25 @@ feature_row:
   - image_path: /assets/images/2.Semester/thumbnail.jpg
     title: "Boligbyggeri op til 2.5 etage"
     excerpt: "På 2. Semester arbejdede jeg med boligbyggeri op til 2,5 etage..."
-    url: "/portfolio/2.5_Etage/"
+    url: "/portfolio/2.Semester/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
   - image_path: /assets/images/3.Semester/FORSIDE.jpg
     title: "Projektering: Præfabrikeret erhversbyggeri"
     excerpt: "Præfabrikeret erhversbyggeri på 3 Semester."
-    url: "/portfolio/Præfabrikeret_erhversbyggeri/"
+    url: "/portfolio/3.Semester/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
   - image_path: /assets/images/4.Semester/4semester.jpg
-    title: "Ny afdeling: Projektering Thrigefirkanten - boligbyggeri 4+ etager"
+    title: "4. Semester - Ny afdeling: Projektering Thrigefirkanten - boligbyggeri 4+ etager"
     excerpt: "Projektering Thrigefirkanten"
     url: "/portfolio/4.semester/"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: /assets/images/5.Semester/humber.jpg
+    title: "5. Semester - Udveksling i Canada"
+    excerpt: "Udveksling i Toronto, Canada"
+    url: "/portfolio/5.semester/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
   - image_path: /assets/images/halmfyr/Billede 1.jpg
@@ -41,6 +47,7 @@ feature_row:
     url: "/portfolio/Slidt halmfyr til charmerende tiny house/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+
 
 
 ---
