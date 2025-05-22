@@ -47,6 +47,12 @@ feature_row:
     url: "/portfolio/Slidt halmfyr til charmerende tiny house/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+  - image_path: /assets/images/6.Semester/3.jpg
+    title: "6. Semester  - Praktikophold"
+    excerpt: "Mit praktik ophold hos Selmer Byg"
+    url: "/portfolio/6.semester - praktik/"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 
 
 
